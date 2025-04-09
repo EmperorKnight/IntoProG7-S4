@@ -6,5 +6,5 @@ numero_porcentaje = int(input(f"Introduzca el porcentaje que quiere conocer del 
 Total = numero_porcentaje / 100
 Total *= numero_porcentado
 
-print(f"El porcentaje de {numero_porcentado} por el {numero_porcentaje} es {Total:.0f}")
+print(f"El {numero_porcentado}% de {numero_porcentaje} es = {Total}")
 
